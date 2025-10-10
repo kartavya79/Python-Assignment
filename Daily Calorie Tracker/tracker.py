@@ -47,7 +47,7 @@ print("\n 📝 Summary of Your Meals:\n")
 print("Meal Name\t\tCalories")
 print("-" * 35)
 
-# Print each meal in tabular form (like you asked)
+# Print each meal in tabular form.
 for meal, cal in zip(Meal_Name, Cal_Intake):
     print(f"{meal:<16}\t{cal:.2f}")
 
