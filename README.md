@@ -12,8 +12,19 @@ Output 1:
 
 
 
+
+
+
+
 Output 2:
 <img width="448" height="658" alt="image" src="https://github.com/user-attachments/assets/7215d89f-7c55-424b-9e83-0916320331b8" />
+
+
+
+
+
+
+
 
 
 
