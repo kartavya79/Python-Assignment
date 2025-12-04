@@ -1,0 +1,7 @@
+Weather Data Analysis Summary
+==============================
+
+Average Temperature: 26.7
+Maximum Temperature: 30
+Minimum Temperature: 24
+Temperature Standard Deviation: 1.7916472867168918
