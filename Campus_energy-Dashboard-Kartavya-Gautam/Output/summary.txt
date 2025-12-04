@@ -1,0 +1,14 @@
+Campus Energy Report
+====================
+Total campus usage: 332.00 kWh
+
+Highest consuming building: Building B (189.50 kWh)
+
+Peak Load Info:
+  Building: Building B
+  Time: 2025-01-02 12:00:00
+  Value: 26.70 kWh
+
+Recorded Periods:
+  Unique days: 3
+  Unique weeks: 1
